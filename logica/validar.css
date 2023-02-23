@@ -1,0 +1,49 @@
+body{
+    background-color: rgba(24, 22, 22, 0.563);
+}
+.correcto{
+  background-color: rgb(3, 208, 3);  
+  color: white;
+  list-style: none;
+  width: 40%;
+  height: 55px;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
+.link{
+    color: white;
+}
+.link:hover{
+    color: yellow;
+}
+
+.error{
+    list-style: none;
+    width: 35%;
+}
+
+.error li{
+    background-color: rgba(255, 3, 3, 0.681);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 55px; 
+    margin-bottom: 5px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.fallo{
+    color: red;
+    margin-top: 25%;
+    text-align: center;
+    font-size: 40px;
+}
+
+h1{
+    color: white;
+}
